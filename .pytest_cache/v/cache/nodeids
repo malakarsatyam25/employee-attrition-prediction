@@ -1,0 +1,7 @@
+[
+  "tests/test_api.py::test_health_endpoint",
+  "tests/test_api.py::test_home_endpoint",
+  "tests/test_api.py::test_predict_endpoint",
+  "tests/test_api.py::test_predict_missing_feature",
+  "tests/test_api.py::test_predict_unexpected_feature"
+]

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Model files (ignore large generated models by default)
+*.pkl
+*.joblib
+
+# Editor settings
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
